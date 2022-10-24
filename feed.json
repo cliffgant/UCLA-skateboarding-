@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "UCLA Skateboarding",
+    "description": "",
+    "home_page_url": "https://cliffgant944.github.io/UCLA-skateboarding-",
+    "feed_url": "https://cliffgant944.github.io/UCLA-skateboarding-/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Clifford Gant"
+    },
+    "items": [
+        {
+            "id": "https://cliffgant944.github.io/UCLA-skateboarding-/footage.html",
+            "url": "https://cliffgant944.github.io/UCLA-skateboarding-/footage.html",
+            "title": "Footage",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/tXvlkhBooPU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Clifford Gant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T14:32:44-07:00",
+            "date_modified": "2022-10-24T15:16:56-07:00"
+        },
+        {
+            "id": "https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html",
+            "url": "https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html",
+            "title": "About Us",
+            "summary": "As an avid skateboarder, I have seen firsthand, the power that a&hellip;",
+            "content_html": "<p>As an avid skateboarder, I have seen firsthand, the power that a plank of wood has to bring people together and form bonds. I'm building this site to showcase the unofficial sport of skateboarding on the UCLA campus.</p>\n<p> </p>",
+            "author": {
+                "name": "Clifford Gant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T14:32:32-07:00",
+            "date_modified": "2022-10-24T15:48:56-07:00"
+        },
+        {
+            "id": "https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html",
+            "url": "https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html",
+            "title": "A Slice of UCLA&#x27;s Skate Scene",
+            "summary": "A cross section of the lives of amateur-student skateboarders. ",
+            "content_html": "<p class=\"align-center\">A cross section of the lives of amateur-student skateboarders. </p>",
+            "image": "https://cliffgant944.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg",
+            "author": {
+                "name": "Clifford Gant"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-24T13:41:23-07:00",
+            "date_modified": "2022-10-24T15:06:02-07:00"
+        }
+    ]
+}

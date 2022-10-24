@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cliffgant944.github.io/UCLA-skateboarding-/sitemap.xml

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>UCLA Skateboarding</title>
+    <link href="https://cliffgant944.github.io/UCLA-skateboarding-/feed.xml" rel="self" />
+    <link href="https://cliffgant944.github.io/UCLA-skateboarding-" />
+    <updated>2022-10-24T15:48:56-07:00</updated>
+    <author>
+        <name>Clifford Gant</name>
+    </author>
+    <id>https://cliffgant944.github.io/UCLA-skateboarding-</id>
+
+    <entry>
+        <title>Footage</title>
+        <author>
+            <name>Clifford Gant</name>
+        </author>
+        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/footage.html"/>
+        <id>https://cliffgant944.github.io/UCLA-skateboarding-/footage.html</id>
+
+        <updated>2022-10-24T15:16:56-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/tXvlkhBooPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Clifford Gant</name>
+        </author>
+        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html"/>
+        <id>https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html</id>
+
+        <updated>2022-10-24T15:48:56-07:00</updated>
+            <summary>
+                <![CDATA[
+                    As an avid skateboarder, I have seen firsthand, the power that a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As an avid skateboarder, I have seen firsthand, the power that a plank of wood has to bring people together and form bonds. I'm building this site to showcase the unofficial sport of skateboarding on the UCLA campus.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>A Slice of UCLA&#x27;s Skate Scene</title>
+        <author>
+            <name>Clifford Gant</name>
+        </author>
+        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html"/>
+        <id>https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html</id>
+
+        <updated>2022-10-24T15:06:02-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cliffgant944.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
+                    A cross section of the lives of amateur-student skateboarders. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cliffgant944.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
+                <p class="align-center">A cross section of the lives of amateur-student skateboarders. </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
