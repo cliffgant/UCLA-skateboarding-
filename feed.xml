@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>UCLA Skateboarding</title>
-    <link href="https://cliffgant944.github.io/UCLA-skateboarding-/feed.xml" rel="self" />
-    <link href="https://cliffgant944.github.io/UCLA-skateboarding-" />
+    <link href="https://cliffgant.github.io/UCLA-skateboarding-/feed.xml" rel="self" />
+    <link href="https://cliffgant.github.io/UCLA-skateboarding-" />
     <updated>2022-10-24T15:48:56-07:00</updated>
     <author>
         <name>Clifford Gant</name>
     </author>
-    <id>https://cliffgant944.github.io/UCLA-skateboarding-</id>
+    <id>https://cliffgant.github.io/UCLA-skateboarding-</id>
 
     <entry>
         <title>Footage</title>
         <author>
             <name>Clifford Gant</name>
         </author>
-        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/footage.html"/>
-        <id>https://cliffgant944.github.io/UCLA-skateboarding-/footage.html</id>
+        <link href="https://cliffgant.github.io/UCLA-skateboarding-/footage.html"/>
+        <id>https://cliffgant.github.io/UCLA-skateboarding-/footage.html</id>
 
         <updated>2022-10-24T15:16:56-07:00</updated>
             <summary></summary>
@@ -30,8 +30,8 @@
         <author>
             <name>Clifford Gant</name>
         </author>
-        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html"/>
-        <id>https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html</id>
+        <link href="https://cliffgant.github.io/UCLA-skateboarding-/about-us-2.html"/>
+        <id>https://cliffgant.github.io/UCLA-skateboarding-/about-us-2.html</id>
 
         <updated>2022-10-24T15:48:56-07:00</updated>
             <summary>
@@ -51,19 +51,19 @@
         <author>
             <name>Clifford Gant</name>
         </author>
-        <link href="https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html"/>
-        <id>https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html</id>
+        <link href="https://cliffgant.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html"/>
+        <id>https://cliffgant.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html</id>
 
         <updated>2022-10-24T15:06:02-07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://cliffgant944.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
+                        <img src="https://cliffgant.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
                     A cross section of the lives of amateur-student skateboarders. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://cliffgant944.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
+                    <img src="https://cliffgant.github.io/UCLA-skateboarding-/media/posts/1/20220921_161341.jpg" alt="" />
                 <p class="align-center">A cross section of the lives of amateur-student skateboarders. </p>
             ]]>
         </content>

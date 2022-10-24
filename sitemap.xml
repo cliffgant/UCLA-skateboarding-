@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://cliffgant944.github.io/UCLA-skateboarding-/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cliffgant.github.io/UCLA-skateboarding-/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://cliffgant944.github.io/UCLA-skateboarding-/</loc>
+<loc>https://cliffgant.github.io/UCLA-skateboarding-/</loc>
 </url>
 <url>
-<loc>https://cliffgant944.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html</loc>
+<loc>https://cliffgant.github.io/UCLA-skateboarding-/a-slice-of-uclas-skate-scene.html</loc>
 <lastmod>2022-10-24T15:06:02-07:00</lastmod>
 <image:image>
-<image:loc>https://cliffgant944.github.io/UCLA-skateboarding-/media\posts\1/20220921_161341.jpg</image:loc>
+<image:loc>https://cliffgant.github.io/UCLA-skateboarding-/media\posts\1/20220921_161341.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://cliffgant944.github.io/UCLA-skateboarding-/about-us-2.html</loc>
+<loc>https://cliffgant.github.io/UCLA-skateboarding-/about-us-2.html</loc>
 <lastmod>2022-10-24T15:48:56-07:00</lastmod>
 </url>
 <url>
-<loc>https://cliffgant944.github.io/UCLA-skateboarding-/footage.html</loc>
+<loc>https://cliffgant.github.io/UCLA-skateboarding-/footage.html</loc>
 <lastmod>2022-10-24T15:16:56-07:00</lastmod>
 </url>
 </urlset>
